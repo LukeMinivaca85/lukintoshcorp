@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/about", "destination": "/about.html" },
+      { "source": "/lukintoshplayengine", "destination": "/lukintoshplayengine.html" },
+      { "source": "/lukintoshos", "destination": "/lukintoshos.html" },
+      { "source": "/lukintosh-store", "destination": "/lukintosh-store.html" }
+    ]
+  }
+  
