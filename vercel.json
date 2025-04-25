@@ -1,9 +1,9 @@
 {
     "rewrites": [
-      { "source": "/about", "destination": "/about.html" },
-      { "source": "/lukintoshplayengine", "destination": "/lukintoshplayengine.html" },
-      { "source": "/lukintoshos", "destination": "/lukintoshos.html" },
-      { "source": "/lukintosh-store", "destination": "/lukintosh-store.html" }
+      { "source": "/about", "destination": "/pages/about.html" },
+      { "source": "/lukintoshplayengine", "destination": "/pages/lukintoshplayengine.html" },
+      { "source": "/lukintosh-store", "destination": "/pages/lukintosh-store.html" },
+      { "source": "/lukintoshos", "destination": "/pages/lukintoshos.html" }
     ]
   }
   
